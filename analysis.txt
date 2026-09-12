@@ -1,2 +1,3 @@
 My first data analysis project.
 I am learning Git.
+Today I learned about Git commits.
