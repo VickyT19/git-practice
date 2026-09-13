@@ -1,3 +1,4 @@
 My first data analysis project.
 I am learning Git.
 Today I learned about Git commits.
+I am building my data analytics portfolio.
